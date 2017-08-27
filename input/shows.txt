@@ -1,0 +1,7 @@
+Game of Thrones	{(Episode 1),(Episode 2),(Episode 3)}
+House MD	{(Ep1),(Ep2),(Ep3),(Ep4))}
+Grimm	{(ep1),(ep2),(ep3),(ep4),(ep5)}
+Under the Dome	{(Ep1),(Ep2)}
+Super Human Samurai	{(ep1),(ep2),(ep3)}
+Daily News	{}
+The Oscar Awards	{}
